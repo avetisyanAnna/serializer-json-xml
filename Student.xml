@@ -1,0 +1,8 @@
+<Student>
+<_firstName>John</_firstName>
+<lastName>Smith</lastName>
+<Course>
+<courseId>1</courseId>
+<courseName>Cryptography</courseName>
+</Course>
+</Student>

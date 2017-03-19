@@ -1,0 +1,10 @@
+{
+"Student": {
+"_firstName": "John",
+"lastName": "Smith",
+"Course": {
+"courseId": "2",
+"courseName": "Cryptography"
+}
+}
+}
